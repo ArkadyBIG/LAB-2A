@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1583582979 source:d:\programs\lab 2\circled_list.cpp
+
+1583749316 source:d:\programs\lab 2\main.cpp
+	<iostream>
+	<vector>
+	"MAIN_HEAD.h"
+	"choose_a_choise.h"
+	"Interactive.h"
+	"BENCHMARK.h"
+	"DEMONSTRATION.h"
+
+1583692945 d:\programs\lab 2\main_head.h
+	<windows.h>
+
+1583676635 d:\programs\lab 2\choose_a_choise.h
+	<vector>
+
+1583677253 source:d:\programs\lab 2\choose_a_choise.cpp
+	<bits/stdc++.h>
+	<vector>
+	<windows.h>
+	<conio.h>
+
+1583750716 d:\programs\lab 2\interactive.h
+	"Circle.h"
+	"MAIN_HEAD.h"
+	"choose_a_choise.h"
+	<conio.h>
+	<vector>
+
+1583745935 d:\programs\lab 2\circle.h
+
+1583748828 d:\programs\lab 2\benchmark.h
+	<bits/stdc++.h>
+	<vector>
+	<windows.h>
+	<conio.h>
+	<random>
+	<ctime>
+	"MAIN_HEAD.h"
+	"Circle.h"
+
+1583751185 d:\programs\lab 2\demonstration.h
+	<iostream>
+	<windows.h>
+
